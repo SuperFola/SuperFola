@@ -2,7 +2,7 @@
 #### A French gamedev, sysadmin, pldev and webdev
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=superfola alt=superfola/> </p>
 
-- 🔭 I’m currently working on [ArkScript](https://github.com/ArkScript-lang/Ark)
+- 🔭 I’m currently working on [ArkScript](https://github.com/ArkScript-lang/Ark), a programming language
 - 🌱 I’m currently learning advanced C++ and NodeJS
 - 👯 I’m looking to collaborate on
     - websites

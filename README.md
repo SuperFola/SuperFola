@@ -14,18 +14,18 @@
 <p>Behold... my stuff (I'm using or learning more about):</p>
 
 <p align="center">
-    <img width="64px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/N/netwide-assembler-logo-69947C0757-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" />&nbsp;&nbsp;
-    <img width="64px" src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" />
+    <img width="64px" src="c-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="cpp-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="python-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="nasm-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="docker.png" />&nbsp;&nbsp;
+    <img width="64px" src="bootstrap.png" />&nbsp;&nbsp;
+    <img width="64px" src="html-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="css-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="js-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="nodejs.png" />&nbsp;&nbsp;
+    <img width="64px" src="vuejs.png" />&nbsp;&nbsp;
+    <img width="64px" src="php-lang.png" />
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=superfola&show_icons=true alt=superfola /> </p>

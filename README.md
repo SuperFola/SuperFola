@@ -1,5 +1,5 @@
 ### Hello there, General Kenobi, I'm Alexandre (SuperFola) Plateau
-#### A French gamedev, sysadmin, pldev and webdev
+#### A French game dev, sysadmin, programming language dev and web dev
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=superfola alt=superfola/> </p>
 
 - 🔭 I’m currently working on [ArkScript](https://github.com/ArkScript-lang/Ark), a programming language
@@ -32,9 +32,14 @@
 
 <p align="center">
     <a href=https://dev.to/superfola target="blank">
-        <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="superfola" height="20" width="20" />
+        <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="superfola" height="48px" />
     </a>
+    &nbsp;
     <a href=https://twitter.com/lexplt target="blank">
-        <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="lexplt" height="20" width="20" />
+        <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="lexplt" height="48px" />
+    </a>
+    &nbsp;
+    <a href=www.linkedin.com/in/alexandre-plateau-12f target="blank">
+        <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Alexandre Plateau" height="48px" />
     </a>
 </p>

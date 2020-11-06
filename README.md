@@ -9,6 +9,7 @@
             <ul>
                 <li><a href=https://github.com/ArkScript-lang/Ark>ArkScript</a>, a programming language</li>
                 <li><a href=https://github.com/SuperFola/DoNotSend>DoNotSend</a>, a messaging system over DNS</li>
+                <li><a href=https://github.com/SuperFola/SmallGameLibrary>SmallGameLibrary</a>, a C++ game library, based on the SFML</li>
             </ul>
         </li>
         <li>🌱 I’m currently learning advanced C++ and NodeJS</li>

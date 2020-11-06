@@ -1,18 +1,30 @@
-### Hello there, General Kenobi, I'm Alexandre (SuperFola) Plateau
-#### A French game dev, sysadmin, programming language dev and web dev
+<h3>Hello there, General Kenobi, I'm Alexandre (SuperFola) Plateau</h3>
+<h4>A French game dev, sysadmin, programming language dev and web dev</h4>
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=superfola alt=superfola/> </p>
 
-- 🔭 I’m currently working on [ArkScript](https://github.com/ArkScript-lang/Ark), a programming language
-- 🌱 I’m currently learning advanced C++ and NodeJS
-- 👯 I’m looking to collaborate on
-    - websites
-    - games
-    - network administration relative applications
-- 💬 Ask me about anything, I love teaching, and also being wrong
-- 📫 How to reach me **lexplt.dev@gmail.com**
+<p>
+    <ul>
+        <li>🔭 I’m currently working on
+            <ul>
+                <li><a href=https://github.com/ArkScript-lang/Ark>ArkScript</a>, a programming language</li>
+                <li><a href=https://github.com/SuperFola/DoNotSend>DoNotSend</a>, a messaging system over DNS</li>
+            </ul>
+        </li>
+        <li>🌱 I’m currently learning advanced C++ and NodeJS</li>
+        <li>👯 I’m looking to collaborate on
+            <ul>
+                <li>websites</li>
+                <li>games</li>
+                <li>network administration relative applications</li>
+            </ul>
+        </li>
+        <li>💬 Ask me about anything, I love teaching and learning</li>
+        <li>📫 How to reach me <strong><a href=mailto:lexplt.dev@gmail.com>lexplt.dev@gmail.com</a></strong></li>
+    </ul>
+</p>
 
-<p>Behold... my stuff (I'm using or learning more about):</p>
-
+<h2>Technlogies I'm using</h2>
 <p align="center">
     <img width="64px" src="c-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="cpp-lang.png" />&nbsp;&nbsp;
@@ -28,9 +40,15 @@
     <img width="64px" src="php-lang.png" />
 </p>
 
+<h2>GitHub stats</h2>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=superfola&show_icons=true alt=superfola /> </p>
 
+<h2>Social links</h2>
 <p align="center">
+    <a href=https://superfola.github.io target="blank">
+        <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/itch-dot-io.svg alt="superfola.itch.io" height="48px" />
+    </a>
+    &nbsp;
     <a href=https://dev.to/superfola target="blank">
         <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="superfola" height="48px" />
     </a>

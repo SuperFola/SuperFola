@@ -42,7 +42,12 @@
 </p>
 
 <h2>GitHub stats</h2>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=superfola&show_icons=true alt=superfola /> </p>
+<p align="center">
+    <img src=https://github-readme-stats.vercel.app/api?username=superfola&show_icons=true&count_private=true&theme=synthwave&include_all_commits=true alt="SuperFola GitHub statistics" />
+</p>
+<p align="center">
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=superfola&layout=compact alt="SuperFola most used languages" />
+</p>
 
 <h2>Social links</h2>
 <p align="center">

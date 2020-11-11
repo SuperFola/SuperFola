@@ -1,7 +1,13 @@
 <h3>Hello there, General Kenobi, I'm Alexandre (SuperFola) Plateau</h3>
 <h4>A French game dev, sysadmin, programming language dev and web dev</h4>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=superfola alt=superfola/> </p>
+<p align="center">
+    <img src=cross_process-0.5-circle.gif width="192px" />
+</p>
+
+<p align="center">
+    <img src=https://komarev.com/ghpvc/?username=superfola alt=superfola/>
+</p>
 
 <p>
     <ul>

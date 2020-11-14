@@ -49,6 +49,11 @@
 
 <h2>GitHub stats</h2>
 <!--START_SECTION:waka-->
+```text
+Python     1 hr 27 mins    ████████████████████░░░░░   80.33 % 
+HTML       17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Other      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+```
 <!--END_SECTION:waka-->
 <p align="center">
     <img src=https://github-readme-stats.vercel.app/api?username=superfola&show_icons=true&count_private=true&theme=synthwave&include_all_commits=true alt="SuperFola GitHub statistics" />

@@ -2,7 +2,10 @@
 #### A French game dev, sysadmin, programming language dev and web dev
 
 <p align="center">
-    <img src=cross_process-0.5-circle.gif width="192px" />
+    <a href="https://superfola.github.io/"><img src=cross_process-0.5-circle.gif width="192px" /></a>
+</p>
+<p align="center">
+    <i>My <a href="https://superfola.github.io/">portfolio</a> lies here</i>
 </p>
 
 <p align="center">

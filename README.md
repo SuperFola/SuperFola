@@ -48,6 +48,8 @@
 </p>
 
 <h2>GitHub stats</h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p align="center">
     <img src=https://github-readme-stats.vercel.app/api?username=superfola&show_icons=true&count_private=true&theme=synthwave&include_all_commits=true alt="SuperFola GitHub statistics" />
 </p>

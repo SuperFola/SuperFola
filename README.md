@@ -1,5 +1,5 @@
-<h3>Hello there, General Kenobi, I'm Alexandre (SuperFola) Plateau</h3>
-<h4>A French game dev, sysadmin, programming language dev and web dev</h4>
+### Hello there, General Kenobi, I'm Alexandre (SuperFola) Plateau
+#### A French game dev, sysadmin, programming language dev and web dev
 
 <p align="center">
     <img src=cross_process-0.5-circle.gif width="192px" />
@@ -31,7 +31,7 @@
     </ul>
 </p>
 
-<h2>Technlogies I'm using</h2>
+## Technlogies I'm using
 <p align="center">
     <img width="64px" src="c-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="cpp-lang.png" />&nbsp;&nbsp;
@@ -47,7 +47,9 @@
     <img width="64px" src="php-lang.png" />
 </p>
 
-<h2>GitHub stats</h2>
+## GitHub stats
+
+My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
 Python     1 hr 27 mins    ████████████████████░░░░░   80.33 % 
@@ -62,7 +64,7 @@ Other      3 mins          ▓░░░░░░░░░░░░░░░░�
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=superfola&layout=compact alt="SuperFola most used languages" />
 </p>
 
-<h2>Social links</h2>
+## Social links
 <p align="center">
     <a href=https://superfola.github.io target="blank">
         <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/itch-dot-io.svg alt="superfola.itch.io" height="48px" />

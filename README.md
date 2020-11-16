@@ -55,11 +55,13 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2020 - 14 November, 2020
+Week: 08 November, 2020 - 15 November, 2020
 
-Python     1 hr 27 mins    ████████████████████░░░░░   80.33 % 
-HTML       17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Other      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Python       1 hr 56 mins    ████████░░░░░░░░░░░░░░░░░   31.74 % 
+HTML         1 hr 34 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.77 % 
+Prolog       1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+JavaScript   43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">

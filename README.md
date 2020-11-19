@@ -55,7 +55,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2020 - 17 November, 2020
+Week: 11 November, 2020 - 18 November, 2020
 
 Python       2 hrs 52 mins   █████████▓░░░░░░░░░░░░░░░   39.10 % 
 HTML         1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.42 % 

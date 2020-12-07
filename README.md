@@ -55,13 +55,13 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2020 - 05 December, 2020
+Week: 29 November, 2020 - 06 December, 2020
 
-Java         2 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.95 % 
-JavaScript   2 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-ArkScript    1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-C++          1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Python       57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+JavaScript   2 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Java         2 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Python       2 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.53 % 
+ArkScript    1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+CSS          56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">

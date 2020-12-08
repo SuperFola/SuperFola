@@ -65,10 +65,10 @@ CSS          56 mins         █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <p align="center">
-    <img src=https://github-readme-stats-bhavnmcyc.vercel.app/api?username=superfola&show_icons=true&count_private=true&theme=synthwave&include_all_commits=true alt="SuperFola GitHub statistics" />
+    <img src=https://github-readme-stats.superfola.vercel.app/api?username=SuperFola&show_icons=true&count_private=true&theme=synthwave&include_all_commits=true alt="SuperFola GitHub statistics" />
 </p>
 <p align="center">
-    <img src=https://github-readme-stats-bhavnmcyc.vercel.app/api/top-langs/?username=superfola&layout=compact alt="SuperFola most used languages" />
+    <img src=https://github-readme-stats.superfola.vercel.app/api/top-langs/?username=SuperFola&layout=compact alt="SuperFola most used languages" />
 </p>
 
 ## Social links

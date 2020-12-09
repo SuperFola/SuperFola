@@ -55,7 +55,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2020 - 07 December, 2020
+Week: 01 December, 2020 - 08 December, 2020
 
 JavaScript   4 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   29.09 % 
 Java         2 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.40 % 

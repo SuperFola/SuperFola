@@ -85,7 +85,7 @@ Other    29 mins         █░░░░░░░░░░░░░░░░░�
         <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="lexplt" height="48px" />
     </a>
     &nbsp;
-    <a href=www.linkedin.com/in/alexandre-plateau-12f target="blank">
+    <a href=https://www.linkedin.com/in/alexandre-plateau-12f target="blank">
         <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Alexandre Plateau" height="48px" />
     </a>
 </p>

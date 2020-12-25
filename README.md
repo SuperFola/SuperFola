@@ -55,7 +55,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 16 December, 2020 - 23 December, 2020
+Week: 17 December, 2020 - 24 December, 2020
 
 Python      8 hrs 31 mins   ███████████████████████▓░   94.60 % 
 Prolog      11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 

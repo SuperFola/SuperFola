@@ -55,7 +55,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2021 - 17 January, 2021
+Week: 11 January, 2021 - 18 January, 2021
 
 Prolog      4 hrs 57 mins   █████████████████▒░░░░░░░   69.32 % 
 Python      1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.80 % 

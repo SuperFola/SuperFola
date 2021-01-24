@@ -55,7 +55,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2021 - 22 January, 2021
+Week: 16 January, 2021 - 23 January, 2021
 
 C++        4 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   45.33 % 
 Prolog     4 hrs 38 mins   ██████████▓░░░░░░░░░░░░░░   42.84 % 

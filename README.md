@@ -55,13 +55,13 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2021 - 23 January, 2021
+Week: 17 January, 2021 - 24 January, 2021
 
-C++        4 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   45.33 % 
-Prolog     4 hrs 38 mins   ██████████▓░░░░░░░░░░░░░░   42.84 % 
-Other      30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-YAML       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Markdown   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Python     6 hrs 40 mins   █████████▒░░░░░░░░░░░░░░░   37.08 % 
+C++        4 hrs 54 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.21 % 
+Markdown   1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Other      1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Bash       1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">

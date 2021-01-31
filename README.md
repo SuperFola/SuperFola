@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src=https://komarev.com/ghpvc/?username=superfola alt=superfola/>
+    <img src=https://komarev.com/ghpvc/?username=superfola&color=blueviolet&style=flat-square alt=superfola/>
 </p>
 
 <p>

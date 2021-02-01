@@ -55,7 +55,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2021 - 30 January, 2021
+Week: 24 January, 2021 - 31 January, 2021
 
 Python       4 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 CSS          3 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.35 % 

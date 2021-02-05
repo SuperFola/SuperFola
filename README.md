@@ -55,13 +55,13 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2021 - 03 February, 2021
+Week: 28 January, 2021 - 04 February, 2021
 
-Python       4 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-JavaScript   3 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.52 % 
-Java         1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Markdown     1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-NASM         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Python       3 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   35.59 % 
+Markdown     1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+NASM         1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+JavaScript   36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Makefile     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">

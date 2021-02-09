@@ -56,7 +56,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
+Week: 01 February, 2021 - 08 February, 2021
 
 Python       3 hrs 6 mins    █████████░░░░░░░░░░░░░░░░   35.59 % 
 Markdown     1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 

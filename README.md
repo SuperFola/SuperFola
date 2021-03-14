@@ -56,13 +56,13 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 05 March, 2021 - 12 March, 2021
+Week: 06 March, 2021 - 13 March, 2021
 
-Python       5 hrs 44 mins   █████████▒░░░░░░░░░░░░░░░   37.36 % 
-C++          3 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.77 % 
-JavaScript   1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Bash         1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-YAML         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+C++         14 hrs          ████████████████▒░░░░░░░░   65.82 % 
+ArkScript   2 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Python      1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Markdown    1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+YAML        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">

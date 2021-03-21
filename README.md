@@ -56,7 +56,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 12 March, 2021 - 19 March, 2021
+Week: 13 March, 2021 - 20 March, 2021
 
 Python       13 hrs 36 mins  ███████████████░░░░░░░░░░   60.54 % 
 C++          3 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.67 % 

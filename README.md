@@ -55,6 +55,11 @@
 
 ## My blog posts on dev.to
 <!-- BLOG-POST-LIST:START -->
+- [Your portfolio is your first impression to recruiters](https://dev.to/superfola/your-portfolio-is-your-first-impression-4p9o)
+- [Hacktoberfest: ArkScript - an open source scripting language](https://dev.to/superfola/hacktoberfest-arkscript-an-open-source-scripting-language-kb)
+- [Deadly commands and why you should be extra careful with them](https://dev.to/superfola/deadly-commands-and-why-you-should-be-extra-careful-with-them-mkp)
+- [Starting a journey with CMake](https://dev.to/superfola/starting-a-journey-with-cmake-58b7)
+- [Why do I need git?](https://dev.to/superfola/why-do-i-need-git-1h54)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub stats

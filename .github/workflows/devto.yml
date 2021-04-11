@@ -2,6 +2,7 @@ name: dev.to
 on:
   schedule:
     - cron: "0 0 * * sun"
+  workflow_dispatch:
 
 jobs:
   steps:

@@ -16,7 +16,7 @@
     <ul>
         <li>🔭 I’m currently working on
             <ul>
-                <li><a href=https://github.com/ArkScript-lang/Ark>ArkScript</a>, a programming language</li>
+                <li><a href=https://github.com/ArkScript-lang/Ark>ArkScript</a>, a functional programming language for C++ projects</li>
                 <li><a href=https://github.com/SuperFola/DoNotSend>DoNotSend</a>, a messaging system over DNS</li>
                 <li><a href=https://github.com/SuperFola/SmallGameLibrary>SmallGameLibrary</a>, a C++ game library, based on the SFML</li>
                 <li><a href=https://github.com/SuperFola/Pataro>Pataro</a>, a C++17 rogue like engine based <a href=https://github.com/libtcod/libtcod>libtcod</a></li>
@@ -27,6 +27,8 @@
             <ul>
                 <li>websites</li>
                 <li>games</li>
+                <li>languages</li>
+                <li>tools (as long as it's in C++ or Python)</li>
                 <li>network administration relative applications</li>
             </ul>
         </li>
@@ -37,19 +39,23 @@
 
 ## Technlogies I'm using
 <p align="center">
-    <img width="64px" src="c-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="cpp-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="python-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="nasm-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="docker.png" />&nbsp;&nbsp;
-    <img width="64px" src="bootstrap.png" />&nbsp;&nbsp;
-    <img width="64px" src="html-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="css-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="js-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="nodejs.png" />&nbsp;&nbsp;
-    <img width="64px" src="vuejs.png" />&nbsp;&nbsp;
-    <img width="64px" src="php-lang.png" />
+    <img width="64px" src="images/c-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/cpp-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/python-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/nasm-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/docker.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/bootstrap.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/html-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/css-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/js-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/nodejs.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/vuejs.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/php-lang.png" />
 </p>
+
+## My blog posts on dev.to
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## GitHub stats
 
@@ -71,10 +77,6 @@ JavaScript   57 mins         █▒░░░░░░░░░░░░░░░
 <p align="center">
     <img src=https://github-readme-stats-superfola.vercel.app/api/top-langs/?username=SuperFola&layout=compact alt="SuperFola most used languages" />
 </p>
-
-## My blog posts on dev.to
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Social links
 <p align="center">

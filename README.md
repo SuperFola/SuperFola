@@ -72,6 +72,10 @@ JavaScript   57 mins         █▒░░░░░░░░░░░░░░░
     <img src=https://github-readme-stats-superfola.vercel.app/api/top-langs/?username=SuperFola&layout=compact alt="SuperFola most used languages" />
 </p>
 
+## My blog posts on dev.to
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Social links
 <p align="center">
     <a href=https://superfola.github.io target="blank">

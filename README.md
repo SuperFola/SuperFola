@@ -67,13 +67,12 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 25 April, 2021 - 02 May, 2021
+Week: 26 April, 2021 - 03 May, 2021
 
-Python     2 hrs 53 mins   ████████████████████▒░░░░   81.07 % 
-Markdown   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-HTML       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Text       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Markdown   17 mins         █████████▓░░░░░░░░░░░░░░░   39.19 % 
+HTML       14 mins         ████████░░░░░░░░░░░░░░░░░   32.15 % 
+C++        6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Python     5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">

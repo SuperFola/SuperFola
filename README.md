@@ -67,7 +67,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 28 April, 2021 - 05 May, 2021
+Week: 29 April, 2021 - 06 May, 2021
 
 Markdown   17 mins         █████████▓░░░░░░░░░░░░░░░   39.19 % 
 HTML       14 mins         ████████░░░░░░░░░░░░░░░░░   32.15 % 

@@ -55,11 +55,11 @@
 
 ## My blog posts on dev.to
 <!-- BLOG-POST-LIST:START -->
+- [C++ and parallelism](https://dev.to/superfola/c-and-parallelism-4f7e)
+- [Function calls in bytecode interpreters](https://dev.to/superfola/function-calls-in-bytecode-interpreters-2l90)
 - [Understanding bytecode interpreters](https://dev.to/superfola/understanding-bytecode-interpreters-eig)
 - [Advice on games' architecture](https://dev.to/superfola/advices-on-games-architecture-2ej7)
 - [Parallelizing a bytecode interpreter](https://dev.to/superfola/parallelizing-a-bytecode-interpreter-58m8)
-- [Your portfolio is your first impression to recruiters](https://dev.to/superfola/your-portfolio-is-your-first-impression-4p9o)
-- [Hacktoberfest: ArkScript - an open source scripting language](https://dev.to/superfola/hacktoberfest-arkscript-an-open-source-scripting-language-kb)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub stats

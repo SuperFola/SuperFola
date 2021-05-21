@@ -67,13 +67,13 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 12 May, 2021 - 19 May, 2021
+Week: 13 May, 2021 - 20 May, 2021
 
-C++         5 hrs 20 mins   █████████████▓░░░░░░░░░░░   55.07 % 
-ArkScript   1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-JSON        43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-C           40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-CMake       31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+C++          3 hrs 50 mins   ███████████░░░░░░░░░░░░░░   43.80 % 
+ArkScript    57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Markdown     52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+JavaScript   45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+JSON         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">

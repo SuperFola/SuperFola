@@ -67,7 +67,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 23 May, 2021 - 30 May, 2021
+Week: 24 May, 2021 - 31 May, 2021
 
 C++         6 hrs 10 mins   ██████████░░░░░░░░░░░░░░░   40.14 % 
 Other       2 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.47 % 

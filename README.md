@@ -55,11 +55,11 @@
 
 ## My blog posts on dev.to
 <!-- BLOG-POST-LIST:START -->
+- [GitHub actions are awesome](https://dev.to/superfola/github-actions-are-awesome-3ggl)
 - [C++ and parallelism](https://dev.to/superfola/c-and-parallelism-4f7e)
 - [Function calls in bytecode interpreters](https://dev.to/superfola/function-calls-in-bytecode-interpreters-2l90)
 - [Understanding bytecode interpreters](https://dev.to/superfola/understanding-bytecode-interpreters-eig)
 - [Advice on games' architecture](https://dev.to/superfola/advices-on-games-architecture-2ej7)
-- [Parallelizing a bytecode interpreter](https://dev.to/superfola/parallelizing-a-bytecode-interpreter-58m8)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub stats

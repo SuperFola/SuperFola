@@ -67,7 +67,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 06 June, 2021 - 13 June, 2021
+Week: 07 June, 2021 - 14 June, 2021
 
 C++         4 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.75 % 
 ArkScript   3 hrs 47 mins   ███████░░░░░░░░░░░░░░░░░░   28.60 % 

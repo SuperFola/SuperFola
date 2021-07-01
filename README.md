@@ -67,7 +67,9 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 24 June, 2021 - 30 June, 2021
+
+Markdown    7 mins          ███████████████████░░░░░░   75.85 % 
 ```
 <!--END_SECTION:waka-->
 

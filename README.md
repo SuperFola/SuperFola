@@ -42,6 +42,7 @@
     <img width="64px" src="images/c-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="images/cpp-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="images/python-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/scala.png" />&nbsp;&nbsp;
     <img width="64px" src="images/nasm-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="images/docker.png" />&nbsp;&nbsp;
     <img width="64px" src="images/bootstrap.png" />&nbsp;&nbsp;

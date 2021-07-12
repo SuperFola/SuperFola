@@ -68,7 +68,7 @@
 My coding statistics for this week:
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 10 July, 2021
+Week: 05 July, 2021 - 11 July, 2021
 
 Markdown    7 mins          ███████████████████░░░░░░   75.85 % 
 ```

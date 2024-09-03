@@ -1,12 +1,8 @@
 ### Hello there, General Kenobi, I'm Alexandre (SuperFola) Plateau
-#### A French game dev, sysadmin, programming language dev and web dev
+#### A French devops, programming language dev, web dev and sometimes game dev
 
 <p align="center">
     <i>My <a href="https://superfola.github.io/">portfolio</a> lies here</i>
-</p>
-
-<p align="center">
-    <img src=https://komarev.com/ghpvc/?username=superfola&color=blueviolet&style=flat-square alt=superfola/>
 </p>
 
 <p>
@@ -33,15 +29,11 @@
 
 ## Technlogies I'm using
 <p align="center">
-    <img width="64px" src="images/c-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="images/cpp-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="images/python-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="images/scala.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/python-lang.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/ArkTransparent-by-mazz.png" />&nbsp;&nbsp;
     <img width="64px" src="images/docker.png" />&nbsp;&nbsp;
-    <img width="64px" src="images/bootstrap.png" />&nbsp;&nbsp;
-    <img width="64px" src="images/html-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="images/css-lang.png" />&nbsp;&nbsp;
-    <img width="64px" src="images/js-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="images/nodejs.png" />
 </p>
 
@@ -56,8 +48,9 @@
 
 <p align="center">
     <img src="/generated/overview.svg" alt="SuperFola GitHub statistics" />
+    <img src="/generated/languages.svg" alt="SuperFola most used languages" />
 </p>
 <p align="center">
-    <img src="/generated/languages.svg" alt="SuperFola most used languages" />
+    <img src=https://komarev.com/ghpvc/?username=superfola&color=blueviolet&style=flat-square alt=superfola/>
 </p>
 

@@ -39,11 +39,11 @@
 
 ## My blog posts on dev.to
 <!-- BLOG-POST-LIST:START -->
+- [Implementing an Intermediate Representation for ArkScript](https://dev.to/lexplt/implementing-an-intermediate-representation-for-arkscript-1824)
 - [Implementing computed gotos in C++](https://dev.to/lexplt/implementing-computed-gotos-in-c-193p)
 - [Adding short-circuiting in a bytecode interpreter](https://dev.to/lexplt/adding-short-circuiting-in-a-bytecode-interpreter-37lj)
 - [Comparing Python and ArkScript asynchronous models](https://dev.to/lexplt/comparing-python-and-arkscript-asynchronous-models-3l60)
 - [Finding bugs by fuzzing your code](https://dev.to/lexplt/finding-bugs-by-fuzzing-your-code-1b0e)
-- [Making your project available through Homebrew](https://dev.to/lexplt/making-your-project-available-through-homebrew-1ll5)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">

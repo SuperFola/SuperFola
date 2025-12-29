@@ -1,6 +1,6 @@
-### Hello there, I'm Lex
+### Hello there, I'm Lexy
 
-I do a lot of **scripting** in Bash, Python and [ArkScript](https://arkscript-lang.dev) (my own language!), sometimes **web dev**, tinkering with **CI/CD** and Docker on my servers, **designing keyboards** in KeyCAD, and also **backend** work in Scala.
+I do a lot of **scripting** in Bash, Python, and [ArkScript](https://arkscript-lang.dev) (my own language!), sometimes **web dev**, tinkering with **CI/CD** and Docker on my servers, **designing keyboards** in KeyCAD, and also **backend** work in Scala.
 
 <p align="center">
     <i>My <a href="https://superfola.github.io/">portfolio</a> lies here</i>,

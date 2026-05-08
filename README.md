@@ -30,9 +30,3 @@ I do a lot of **scripting** in Bash, Python, and [ArkScript](https://arkscript-l
     <img width="64px" src="images/docker.png" />&nbsp;&nbsp;
     <img width="64px" src="images/nodejs.png" />
 </p>
-
-<p align="center">
-    <img src="/generated/overview.svg" alt="SuperFola GitHub statistics" />
-    <img src="/generated/languages.svg" alt="SuperFola most used languages" />
-</p>
-

@@ -17,7 +17,7 @@ I do a lot of **scripting** in Bash, Python, and [ArkScript](https://arkscript-l
         </li>
         <li>🌱 I’m currently learning advanced C++</li>
         <li>💬 Ask me about anything, I love teaching and learning</li>
-        <li>📫 How to reach me <strong><a href=mailto:lexplt.dev@gmail.com>lexplt.dev@gmail.com</a></strong></li>
+        <li>📫 How to reach me <strong><a href=mailto:lexplt.dev@gmail.com>lexy@elranet.eu</a></strong></li>
     </ul>
 </p>
 

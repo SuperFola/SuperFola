@@ -25,8 +25,8 @@ I do a lot of **scripting** in Bash, Python, and [ArkScript](https://arkscript-l
 <p align="center">
     <img width="64px" src="images/cpp-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="images/scala.png" />&nbsp;&nbsp;
-    <img width="64px" src="images/python-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="images/ArkTransparent-by-mazz.png" />&nbsp;&nbsp;
+    <img width="64px" src="images/python-lang.png" />&nbsp;&nbsp;
     <img width="64px" src="images/docker.png" />&nbsp;&nbsp;
     <img width="64px" src="images/nodejs.png" />
 </p>
